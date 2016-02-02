@@ -1,6 +1,6 @@
 <?php 
   
- namespace MCrafters\TeamPvP; 
+ namespace src; 
   
  use pocketmine\plugin\PluginBase; 
  use pocketmine\utils\TextFormat as Color; 
